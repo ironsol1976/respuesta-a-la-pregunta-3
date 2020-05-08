@@ -1,0 +1,20 @@
+Practico 2 - Bash Script Básico
+Calificación:N/A
+Ver información de calificación. Abre un cuadro de diálogo
+Vence: Thursday, 23 April, 2020 at 11:59 pm
+
+Escribir un script que al pasarle por argumento un parámetro, determine si es archivo, directorio, o si el parámetro no existe.
+
+
+Escribir un script que al pasarle por argumento un archivo o directorio, devuelve el tamaño en MB.
+
+
+Escribir un script que al no pasarle argumentos, sugiere al usuario cuáles son las posibles opciones para su ejecución.
+
+
+Escribir un script que lo salude con su nombre completo cada vez que ingrese en la consola tty1 como usuario que creado con su nombre
+
+
+Escribir un script que pueda mostrar información de un comando al ejecutar dicho script y pasar como parámetro el comando.
+
+Escribir un script que genere un backup comprimido en formato TAR-GZIP del directorio de trabajo /home/myusuario cada 5 minutos asignándole el nombre de "backup-hora de generación.tar.gz".
